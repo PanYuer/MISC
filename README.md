@@ -1,1 +1,1 @@
-Some assignments from various courses.
+Some assignments of various courses provided by Coursera and Codecademy. Possible solutions to questions on Leetcode.
