@@ -1,0 +1,1 @@
+Some assignments from various courses.
